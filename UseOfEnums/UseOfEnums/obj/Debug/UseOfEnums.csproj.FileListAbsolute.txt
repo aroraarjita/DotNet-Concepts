@@ -1,0 +1,7 @@
+C:\Users\arjit\source\repos\UseOfEnums\UseOfEnums\bin\Debug\UseOfEnums.exe.config
+C:\Users\arjit\source\repos\UseOfEnums\UseOfEnums\bin\Debug\UseOfEnums.exe
+C:\Users\arjit\source\repos\UseOfEnums\UseOfEnums\bin\Debug\UseOfEnums.pdb
+C:\Users\arjit\source\repos\UseOfEnums\UseOfEnums\obj\Debug\UseOfEnums.csprojAssemblyReference.cache
+C:\Users\arjit\source\repos\UseOfEnums\UseOfEnums\obj\Debug\UseOfEnums.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\UseOfEnums\UseOfEnums\obj\Debug\UseOfEnums.exe
+C:\Users\arjit\source\repos\UseOfEnums\UseOfEnums\obj\Debug\UseOfEnums.pdb
